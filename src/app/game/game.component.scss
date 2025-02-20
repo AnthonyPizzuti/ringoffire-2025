@@ -2,7 +2,7 @@
   width: 100vw;
   height: 100vh;
   max-width: 100%;
-  background-image: url("/assets/img/board.jpg");
+  background-image: url("/src/assets/img/board.jpg");
   display: flex;
   justify-content: center;
   align-items: center;
@@ -60,9 +60,9 @@
   bottom: 32px;
 }
 
-.pin-bottom{
-    position: absolute;
-    bottom: 32px;
-    left: 100px;
-    right: 100px;
+.pin-bottom {
+  position: absolute;
+  bottom: 32px;
+  left: 100px;
+  right: 100px;
 }
